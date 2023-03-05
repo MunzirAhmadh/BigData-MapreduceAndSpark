@@ -1,0 +1,6 @@
+Time Taken by Query (in Sec)HiveSpark
+Carrier delay         0.863
+NAS delay             0.832
+Weather Delay         0.814
+Late Aircraft delay   0.977
+Security Delay        0.787
